@@ -55,6 +55,4 @@ download using - github: https://github.com/opencv/opencv/blob/master/data/haarc
 
 1. "gender" : To detect gender of the person detected in the frame
 
-2. "update" : This function is used to update face records
-
-3. "facee" : Use to recognize face of the person in the frame
+2. "facee" : Use to recognize face of the person in the frame
